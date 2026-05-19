@@ -43,7 +43,7 @@ Features:
 - Role-based dashboards
 
 Repository:
-https://github.com/yourname/laravel-erp
+https://github.com/KJordan225/laravel-erp-vue
 
 ### Multi-Tenant Creator Platform
 OnlyFans-style creator subscription marketplace using:
