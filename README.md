@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Keith Jordan
+
+Senior Full Stack Web Applications Engineer
+
+## Technologies
+
+- Laravel
+- PHP
+- Vue 3
+- Inertia
+- MySQL
+- PostgreSQL
+- Stripe Connect
+- Docker
+- AWS
+
+## Featured Projects
+
+### Laravel ERP System
+Enterprise resource planning platform using Laravel 13, Vue 3, Bootstrap 5, and MySQL.
+
+Features:
+- Inventory management
+- Invoicing
+- Customer management
+- Role-based dashboards
+
+Repository:
+https://github.com/yourname/laravel-erp
+
+### Multi-Tenant Creator Platform
+OnlyFans-style creator subscription marketplace using:
+- Laravel
+- Stancl Tenancy
+- Stripe Connect
+
+Features:
+- Tenant onboarding
+- Subscription billing
+- Media streaming
+- Revenue sharing
